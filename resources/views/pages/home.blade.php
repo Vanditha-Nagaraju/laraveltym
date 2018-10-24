@@ -36,7 +36,6 @@
 
         </div> <!-- /container -->
 
-    </main>
 
 
 @endsection
